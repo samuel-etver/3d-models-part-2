@@ -4,6 +4,7 @@
 
 ## Tools
 
-Blender-3.6
+* Blender-3.6
+* Maya
 
 ![](screenshots/image1.png) 
